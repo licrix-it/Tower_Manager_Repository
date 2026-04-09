@@ -11,10 +11,12 @@
             "id": "a56e8fe1f39ae84c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "image",
+              "state": {
+                "file": "Images/photo_2026-04-09_11-31-44.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "photo_2026-04-09_11-31-44"
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Images/photo_2026-04-09_11-31-44.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для photo_2026-04-09_11-31-44"
             }
           },
           {
@@ -205,6 +208,7 @@
   },
   "active": "a56e8fe1f39ae84c",
   "lastOpenFiles": [
+    "Images/photo_2026-04-09_11-31-44.jpg",
     "Kanban/Задачи по разработке игры.md",
     "Images",
     "Templates",
