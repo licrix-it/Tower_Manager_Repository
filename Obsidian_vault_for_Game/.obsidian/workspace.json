@@ -15,8 +15,8 @@
               "state": {
                 "file": "Черновой холст для всякого.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -346,
+                  "y": -189,
                   "zoom": 0
                 }
               },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Черновой холст для всякого.canvas",
+                "file": "Images/Коробки 2.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Черновой холст для всякого"
+              "title": "Обратные ссылки для Коробки 2"
             }
           },
           {
@@ -213,8 +213,9 @@
   },
   "active": "4ce54294d1d52987",
   "lastOpenFiles": [
-    "Images/Коробки - Вариант - 2.jpg",
+    "Images/Коробки 2.jpg",
     "Черновой холст для всякого.canvas",
+    "Images/Коробки - Вариант - 2.jpg",
     "Kanban/Задачи по разработке игры.md",
     "Images",
     "Templates",
