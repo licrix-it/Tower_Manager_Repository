@@ -4,24 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "308dc82b3e1bc43c",
+        "id": "f9f76e72c15094b3",
         "type": "tabs",
         "children": [
           {
-            "id": "a56e8fe1f39ae84c",
+            "id": "55a3c5e1c1bf4c06",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "Черновой холст для всякого.canvas",
-                "viewState": {
-                  "x": -346,
-                  "y": -189,
-                  "zoom": 0
+                "file": "Kanban/Задачи по разработке демки игры.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    null
+                  ]
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Черновой холст для всякого"
+              "icon": "lucide-trello",
+              "title": "Задачи по разработке демки игры"
             }
           }
         ]
@@ -97,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Коробки 2.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Коробки 2"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -193,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 206.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,15 +211,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ce54294d1d52987",
+  "active": "55a3c5e1c1bf4c06",
   "lastOpenFiles": [
-    "Images/Коробки 2.jpg",
+    "Kanban/Идеи для игры.md",
+    "Kanban/Задачи по разработке демки игры.md",
+    "Игра Рисованая аркада про защиту башни.canvas",
     "Черновой холст для всякого.canvas",
+    "Images/Коробки 2.jpg",
     "Images/Коробки - Вариант - 2.jpg",
-    "Kanban/Задачи по разработке игры.md",
     "Images",
     "Templates",
-    "Kanban/Идеи для игры.md",
     "Kanban"
   ]
 }
