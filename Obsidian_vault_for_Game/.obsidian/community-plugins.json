@@ -3,8 +3,8 @@
   "calendar",
   "dataview",
   "fast-text-color",
-  "obsidian-git",
   "obsidian-kanban",
   "omnisearch",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]

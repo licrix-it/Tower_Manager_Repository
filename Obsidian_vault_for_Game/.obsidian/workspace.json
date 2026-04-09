@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban/Идеи для игры.md",
+                "file": "Kanban/Задачи по разработке игры.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -26,7 +26,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Идеи для игры"
+              "title": "Задачи по разработке игры"
             }
           }
         ]
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Идеи для игры.md",
+                "file": "Kanban/Задачи по разработке игры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Идеи для игры"
+              "title": "Обратные ссылки для Задачи по разработке игры"
             }
           },
           {
@@ -182,13 +182,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "6b77c0ea6480a728",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
