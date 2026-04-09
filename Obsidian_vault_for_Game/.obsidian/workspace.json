@@ -11,12 +11,17 @@
             "id": "a56e8fe1f39ae84c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Images/photo_2026-04-09_11-31-44.jpg"
+                "file": "Черновой холст для всякого.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-image",
-              "title": "photo_2026-04-09_11-31-44"
+              "icon": "lucide-layout-dashboard",
+              "title": "Черновой холст для всякого"
             }
           }
         ]
@@ -92,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/photo_2026-04-09_11-31-44.jpg",
+                "file": "Черновой холст для всякого.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для photo_2026-04-09_11-31-44"
+              "title": "Обратные ссылки для Черновой холст для всякого"
             }
           },
           {
@@ -206,9 +211,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a56e8fe1f39ae84c",
+  "active": "4ce54294d1d52987",
   "lastOpenFiles": [
-    "Images/photo_2026-04-09_11-31-44.jpg",
+    "Images/Коробки - Вариант - 2.jpg",
+    "Черновой холст для всякого.canvas",
     "Kanban/Задачи по разработке игры.md",
     "Images",
     "Templates",
