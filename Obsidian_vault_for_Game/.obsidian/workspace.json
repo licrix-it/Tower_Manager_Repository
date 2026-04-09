@@ -4,25 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3bbab77124955e95",
+        "id": "308dc82b3e1bc43c",
         "type": "tabs",
         "children": [
           {
-            "id": "3e026db2916eec1e",
+            "id": "a56e8fe1f39ae84c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/Задачи по разработке игры.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    null
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Задачи по разработке игры"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -98,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/Задачи по разработке игры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Задачи по разработке игры"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -212,11 +203,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ce54294d1d52987",
+  "active": "a56e8fe1f39ae84c",
   "lastOpenFiles": [
+    "Kanban/Задачи по разработке игры.md",
     "Images",
     "Templates",
-    "Kanban/Задачи по разработке игры.md",
     "Kanban/Идеи для игры.md",
     "Kanban"
   ]
