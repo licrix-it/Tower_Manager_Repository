@@ -13,16 +13,18 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban/Задачи по разработке демки игры.md",
+                "file": "Kanban/Обсуждение.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    null
+                    false,
+                    false,
+                    false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "Задачи по разработке демки игры"
+              "title": "Обсуждение"
             }
           }
         ]
@@ -213,8 +215,9 @@
   },
   "active": "55a3c5e1c1bf4c06",
   "lastOpenFiles": [
-    "Kanban/Идеи для игры.md",
     "Kanban/Задачи по разработке демки игры.md",
+    "Kanban/Идеи для игры.md",
+    "Kanban/Обсуждение.md",
     "Игра Рисованая аркада про защиту башни.canvas",
     "Черновой холст для всякого.canvas",
     "Images/Коробки 2.jpg",
