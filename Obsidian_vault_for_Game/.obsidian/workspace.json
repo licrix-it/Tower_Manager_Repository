@@ -11,18 +11,17 @@
             "id": "55a3c5e1c1bf4c06",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "canvas",
               "state": {
-                "file": "Kanban/Задачи по разработке демки игры.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    null
-                  ]
+                "file": "Игра Рисованая аркада про защиту башни.canvas",
+                "viewState": {
+                  "x": 3900,
+                  "y": 1039.5,
+                  "zoom": -3.2161604676249334
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Задачи по разработке демки игры"
+              "icon": "lucide-layout-dashboard",
+              "title": "Игра Рисованая аркада про защиту башни"
             }
           }
         ]
@@ -193,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +212,8 @@
   },
   "active": "55a3c5e1c1bf4c06",
   "lastOpenFiles": [
-    "Kanban/Идеи для игры.md",
     "Kanban/Обсуждения.md",
+    "Kanban/Идеи для игры.md",
     "Kanban/Задачи по разработке демки игры.md",
     "Игра Рисованая аркада про защиту башни.canvas",
     "Черновой холст для всякого.canvas",
