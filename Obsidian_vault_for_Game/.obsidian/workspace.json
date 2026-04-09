@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9b3895c984fe4a6a",
+        "id": "3bbab77124955e95",
         "type": "tabs",
         "children": [
           {
-            "id": "38058cfd96525955",
+            "id": "3e026db2916eec1e",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -17,11 +17,7 @@
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
+                    null
                   ]
                 }
               },
@@ -216,12 +212,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "38058cfd96525955",
+  "active": "4ce54294d1d52987",
   "lastOpenFiles": [
+    "Images",
+    "Templates",
     "Kanban/Задачи по разработке игры.md",
     "Kanban/Идеи для игры.md",
-    "Templates",
-    "Kanban",
-    "Images"
+    "Kanban"
   ]
 }
