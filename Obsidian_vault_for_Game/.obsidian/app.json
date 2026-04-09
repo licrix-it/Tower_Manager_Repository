@@ -5,5 +5,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "Images",
   "alwaysUpdateLinks": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "promptDelete": false
 }
