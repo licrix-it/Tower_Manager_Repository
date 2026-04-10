@@ -11,17 +11,22 @@
             "id": "55a3c5e1c1bf4c06",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "kanban",
               "state": {
-                "file": "Игра Рисованая аркада про защиту башни.canvas",
-                "viewState": {
-                  "x": 3900,
-                  "y": 1039.5,
-                  "zoom": -3.2161604676249334
+                "file": "Kanban/Идеи для игры.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Игра Рисованая аркада про защиту башни"
+              "icon": "lucide-trello",
+              "title": "Идеи для игры"
             }
           }
         ]
@@ -196,6 +201,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -205,7 +211,6 @@
       "bases:Создать новую базу": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Создать новую доску": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false
     }
