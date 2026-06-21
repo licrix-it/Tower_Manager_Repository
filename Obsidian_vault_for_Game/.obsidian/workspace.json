@@ -8,24 +8,49 @@
         "type": "tabs",
         "children": [
           {
+            "id": "393885aafd7e6019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Гайды по проге на Си Шарп/Теория/1.1 Ввод и вывод.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 Ввод и вывод"
+            }
+          },
+          {
             "id": "55a3c5e1c1bf4c06",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/Задачи по разработке демки игры.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    null
-                  ]
-                }
+                "file": "Гайды по проге на Си Шарп/Задачи/Ответы/1.0, 1.1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Задачи по разработке демки игры"
+              "icon": "lucide-file",
+              "title": "1.0, 1.1"
+            }
+          },
+          {
+            "id": "57d2acab653a11ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Гайды по проге на Си Шарп/Задачи/Задачи/1.0, 1.1 Создать первый проект в Visual Studio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.0, 1.1 Создать первый проект в Visual Studio"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,11 +218,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Create new board": false,
+      "obsidian-kanban:Создать новую доску": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -211,15 +236,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55a3c5e1c1bf4c06",
+  "active": "57d2acab653a11ec",
   "lastOpenFiles": [
+    "Гайды по проге на Си Шарп/Теория/1.1 Ввод и вывод.md",
+    "Гайды по проге на Си Шарп/Задачи/Ответы/1.0, 1.1.md",
+    "Гайды по проге на Си Шарп/Задачи/Задачи/1.0, 1.1 Создать первый проект в Visual Studio.md",
+    "Images/Pasted image 20260622072452.png",
+    "Гайды по проге на Си Шарп/Теория/1.0 Создание Первого консольного приложения.md",
+    "Images/Pasted image 20260622070209.png",
+    "Images/Pasted image 20260622065543.png",
+    "Images/Pasted image 20260622065510.png",
+    "Images/Pasted image 20260622065325.png",
+    "Гайды по проге на Си Шарп/История решений_Фомин Виктор",
+    "Images/Pasted image 20260622064445.png",
     "Kanban/Обсуждения.md",
-    "Kanban/Идеи для игры.md",
+    "Без названия",
+    "Images/Pasted image 20260622063931.png",
+    "Images/Pasted image 20260622063235.png",
+    "Images/Pasted image 20260622063732.png",
+    "Images/Pasted image 20260622063717.png",
     "Kanban/Задачи по разработке демки игры.md",
+    "Гайды по проге на Си Шарп/Задачи/Ответы",
+    "Гайды по проге на Си Шарп/Задачи/Задачи",
+    "Гайды по проге на Си Шарп/Теория",
+    "Гайды по проге на Си Шарп/Задачи",
+    "Гайды по проге на Си Шарп",
+    "Kanban/Идеи для игры.md",
     "Игра Рисованая аркада про защиту башни.canvas",
     "Черновой холст для всякого.canvas",
-    "Images/Коробки 2.jpg",
-    "Images/Коробки - Вариант - 2.jpg",
     "Images",
     "Templates",
     "Kanban"
